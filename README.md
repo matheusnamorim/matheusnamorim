@@ -1,12 +1,13 @@
-### Hi there 👋
+### Fala galera! Sou o Matheus 👋
 
-- 👨‍💻 Pronome: Ele/Dele 
 - 🎓 Estou terminando a graduação em Ciência da Computação na UFG.
 - 🥰 Sou apaixonado em esportes ⚽
+- 👨‍💻 Pronome: Ele/Dele 
 - 💬 Pergunte-me sobre qualquer coisa
 
-<img src="https://github-readme-stats.vercel.app/api?username=matheusnamorim&count_private=true&show_icons=true">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusnamorim">
+<img height="140em" align="center" alt="stats" src="https://github-readme-stats.vercel.app/api?username=matheusnamorim&count_private=true&theme=radical" height="400" />
+<img height="140em" align="center" alt="stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusnamorim&show_icons=true&layout=compact&theme=radical" height="400" />
+
 <!--
 **matheusnamorim/matheusnamorim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
