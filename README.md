@@ -5,8 +5,11 @@
 - 👨‍💻 Pronome: Ele/Dele 
 - 💬 Pergunte-me sobre qualquer coisa
 
-<img height="140em" align="center" alt="stats" src="https://github-readme-stats.vercel.app/api?username=matheusnamorim&count_private=true&theme=radical" height="400" />
+<span> 
+  <img height="140em" align="center" alt="stats" src="https://github-readme-stats.vercel.app/api?username=matheusnamorim&count_private=true&theme=radical" height="400" />
 <img height="140em" align="center" alt="stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusnamorim&show_icons=true&layout=compact&theme=radical" height="400" />
+</span>
+
 
 <!--
 **matheusnamorim/matheusnamorim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
