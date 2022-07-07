@@ -2,6 +2,7 @@
 
 - 👨‍💻 Pronome: Ele/Dele 
 - 🎓 Estou terminando a graduação em Ciência da Computação na UFG.
+- 🥰 Sou apaixonado em esportes ⚽
 - 💬 Pergunte-me sobre qualquer coisa
 
 <img src="https://github-readme-stats.vercel.app/api?username=matheusnamorim&count_private=true&show_icons=true">
