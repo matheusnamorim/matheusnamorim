@@ -16,7 +16,8 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 
 </div>
-  ![snake gif](https://github.com/matheusnamorim/matheusnamorim/blob/output/github-contribution-grid-snake.svg)
+  
+  ![](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 
 <!--
 **matheusnamorim/matheusnamorim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
