@@ -4,9 +4,13 @@
 - 🥰 Sou apaixonado em esportes ⚽
 - 👨‍💻 Pronome: Ele/Dele 
 - 💬 Pergunte-me sobre qualquer coisa
-<a href="https://www.linkedin.com/in/matheus-amorim-bb4a98218/" target="_blank"> 
-  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/matheus-amorim-bb4a98218/" target="_blank"> 
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+</div>
+</br>
 <div align="center"> 
   <img height="140em" align="center" alt="stats" src="https://github-readme-stats.vercel.app/api?username=matheusnamorim&count_private=true&theme=cobalt" height="400" />
 <img height="140em" align="center" alt="stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusnamorim&show_icons=true&layout=compact&theme=cobalt" height="400" />
