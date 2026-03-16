@@ -1,6 +1,6 @@
 ### Fala galera! Sou o Matheus 👋
 
-- 🎓 Estou terminando a graduação em Ciência da Computação na UFG.
+- 🎓 Sou graduado em Ciência da Computação na UFG.
 - 🥰 Sou apaixonado em esportes ⚽
 - 👨‍💻 Pronome: Ele/Dele 
 - 💬 Pergunte-me sobre qualquer coisa
